@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "TOEFL IBT Hazırlık",
+    "description": "Amerika'da eğitim almak isteyenler için TOEFL IBT sınavına kapsamlı hazırlık programı.",
+    "duration": "12 Hafta",
+    "level": "Intermediate - Advanced",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["Reading, Listening, Speaking, Writing modülleri", "Haftalık deneme sınavları", "Kişiselleştirilmiş geri bildirim", "Online kaynak erişimi"],
+    "active": true
+  },
+  {
+    "id": "2",
+    "title": "IELTS Hazırlık",
+    "description": "İngiltere, Avustralya ve Kanada için IELTS Academic ve General Training hazırlığı.",
+    "duration": "10 Hafta",
+    "level": "Pre-Intermediate - Advanced",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["Academic ve General Training modülleri", "Speaking practice sessions", "Writing task değerlendirmeleri", "Sınav stratejileri"],
+    "active": true
+  },
+  {
+    "id": "3",
+    "title": "YDS Hazırlık",
+    "description": "Yabancı Dil Bilgisi Seviye Tespit Sınavı'na yönelik kapsamlı hazırlık programı.",
+    "duration": "8 Hafta",
+    "level": "Intermediate - Advanced",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["Grammar ve vocabulary çalışmaları", "Reading comprehension teknikleri", "Deneme sınavları", "Soru çözüm stratejileri"],
+    "active": true
+  },
+  {
+    "id": "4",
+    "title": "YÖKDİL Hazırlık",
+    "description": "Akademik personel için YÖKDİL sınavına özel hazırlık programı.",
+    "duration": "8 Hafta",
+    "level": "Intermediate - Advanced",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["Akademik metin analizi", "Vocabulary building", "Grammar review", "Sınav teknikleri"],
+    "active": true
+  },
+  {
+    "id": "5",
+    "title": "Cambridge Exams (FCE, CAE, CPE)",
+    "description": "Cambridge sınavlarına (First, Advanced, Proficiency) profesyonel hazırlık.",
+    "duration": "14 Hafta",
+    "level": "Upper-Intermediate - Proficiency",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["Tüm sınav modülleri", "Mock exams", "Speaking practice", "Writing workshops"],
+    "active": true
+  },
+  {
+    "id": "6",
+    "title": "Genel İngilizce",
+    "description": "Temel seviyeden ileri seviyeye kadar genel İngilizce eğitimi.",
+    "duration": "Esnek",
+    "level": "Beginner - Advanced",
+    "price": "Detaylı bilgi için iletişime geçin",
+    "features": ["4 temel dil becerisi", "İnteraktif dersler", "Seviye belirleme testi", "Esnek program seçenekleri"],
+    "active": true
+  }
+]
