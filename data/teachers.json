@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Dr. Ayşe Yılmaz",
+    "title": "IELTS & TOEFL Uzmanı",
+    "experience": "12 Yıl Deneyim",
+    "education": "Cambridge University - TESOL",
+    "specialties": ["IELTS", "TOEFL", "Academic English"],
+    "image": "/professional-teacher-woman.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Mehmet Demir",
+    "title": "PTE & OET Eğitmeni",
+    "experience": "10 Yıl Deneyim",
+    "education": "Oxford University - Applied Linguistics",
+    "specialties": ["PTE Academic", "OET", "Business English"],
+    "image": "/professional-teacher-man.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Zeynep Kaya",
+    "title": "SAT & Akademik İngilizce",
+    "experience": "8 Yıl Deneyim",
+    "education": "Harvard University - Education",
+    "specialties": ["SAT", "Academic Writing", "Grammar"],
+    "image": "/professional-teacher-woman-smiling.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Can Öztürk",
+    "title": "Goethe & Almanca Eğitmeni",
+    "experience": "15 Yıl Deneyim",
+    "education": "Goethe Institut - Zertifikat",
+    "specialties": ["Goethe Zertifikat", "Almanca", "TestDaF"],
+    "image": "/professional-teacher-man-glasses.jpg"
+  }
+]
