@@ -1,0 +1,13 @@
+{
+  "address": "Peyas, Kayapınar Cd., Kayapınar/Diyarbakır",
+  "phone": "0537 061 27 17",
+  "email": "info@englishgate.net",
+  "instagram": "@englishgatediyarbakir",
+  "whatsapp": "905370612717",
+  "workingHours": {
+    "weekdays": "09:00 - 18:00",
+    "saturday": "10:00 - 16:00",
+    "sunday": "Kapalı"
+  },
+  "mapUrl": "https://maps.google.com"
+}
