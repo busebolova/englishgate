@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "IELTS Sınavına Nasıl Hazırlanılır? Kapsamlı Rehber",
+    "excerpt": "IELTS sınavında yüksek puan almanız için gereken tüm stratejiler, ipuçları ve çalışma teknikleri. Reading, Writing, Listening ve Speaking bölümleri için detaylı öneriler.",
+    "author": "Dr. Ayşe Yılmaz",
+    "date": "15 Ocak 2025",
+    "readTime": "8 dk",
+    "category": "IELTS",
+    "image": "/ielts-exam-preparation-study.jpg",
+    "slug": "ielts-sinavina-nasil-hazirlanilir"
+  },
+  {
+    "id": "2",
+    "title": "TOEFL vs IELTS: Hangi Sınavı Seçmelisiniz?",
+    "excerpt": "İki popüler İngilizce yeterlilik sınavı arasındaki farklar, benzerlikler ve sizin için hangisinin daha uygun olduğunu belirleme rehberi.",
+    "author": "Mehmet Kaya",
+    "date": "12 Ocak 2025",
+    "readTime": "6 dk",
+    "category": "Karşılaştırma",
+    "image": "/toefl-ielts-comparison.jpg",
+    "slug": "toefl-vs-ielts-hangi-sinavi-secmelisiniz"
+  },
+  {
+    "id": "3",
+    "title": "İngilizce Kelime Dağarcığınızı Geliştirmenin 10 Etkili Yolu",
+    "excerpt": "Bilimsel araştırmalara dayalı, kanıtlanmış kelime öğrenme teknikleri ve günlük hayatta uygulayabileceğiniz pratik yöntemler.",
+    "author": "Zeynep Demir",
+    "date": "10 Ocak 2025",
+    "readTime": "7 dk",
+    "category": "Öğrenme Stratejileri",
+    "image": "/vocabulary-learning-english-books.jpg",
+    "slug": "ingilizce-kelime-dagarcigini-gelistirme"
+  },
+  {
+    "id": "4",
+    "title": "PTE Academic Sınavı: Bilmeniz Gereken Her Şey",
+    "excerpt": "PTE Academic sınavının yapısı, puanlama sistemi, hazırlık stratejileri ve sınav günü için önemli ipuçları.",
+    "author": "Can Öztürk",
+    "date": "8 Ocak 2025",
+    "readTime": "9 dk",
+    "category": "PTE",
+    "image": "/pte-academic-test-computer.jpg",
+    "slug": "pte-academic-sinavi-rehberi"
+  },
+  {
+    "id": "5",
+    "title": "Yurtdışı Eğitim İçin Gerekli Dil Sınavları ve Puanlar",
+    "excerpt": "Farklı ülkeler ve üniversiteler için gerekli minimum dil sınav puanları, başvuru süreçleri ve önemli tarihler.",
+    "author": "Dr. Ayşe Yılmaz",
+    "date": "5 Ocak 2025",
+    "readTime": "10 dk",
+    "category": "Yurtdışı Eğitim",
+    "image": "/international-education-university.jpg",
+    "slug": "yurtdisi-egitim-dil-sinavlari"
+  },
+  {
+    "id": "6",
+    "title": "Speaking Sınavında Başarılı Olmanın 7 Altın Kuralı",
+    "excerpt": "Konuşma sınavlarında özgüven kazanmanız, akıcı konuşmanız ve yüksek puan almanız için pratik stratejiler ve egzersizler.",
+    "author": "Mehmet Kaya",
+    "date": "3 Ocak 2025",
+    "readTime": "5 dk",
+    "category": "Speaking",
+    "image": "/speaking-test-interview-confident.jpg",
+    "slug": "speaking-sinavinda-basarili-olma"
+  }
+]
