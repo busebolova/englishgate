@@ -1,38 +1,23 @@
 [
   {
     "id": "1",
-    "name": "Dr. Ayşe Yılmaz",
-    "title": "IELTS & TOEFL Uzmanı",
-    "experience": "12 Yıl Deneyim",
-    "education": "Cambridge University - TESOL",
-    "specialties": ["IELTS", "TOEFL", "Academic English"],
-    "image": "/professional-teacher-woman.jpg"
+    "name": "Gül Yıldız Kaçan",
+    "title": "İngilizce Öğretmeni",
+    "bio": "Merhaba, ben Gül öğretmen. Dicle Üniversitesi İngiliz Dili Eğitimi (ELT) bölümünden mezun oldum. Öğretmenlik kariyerim boyunca farklı yaş gruplarından ve çeşitli seviyelerden öğrencilerle çalışma fırsatı buldum.\n\nYDT sınavına hazırlık sınıflarında görev alarak değerli deneyimler kazandım. Ayrıca Gazi Yaşargil İlkokulu'nda çocuk gruplarıyla (Kids Groups) çalıştım.\n\nŞu anda English Gate Dil Okullarında görev yapmaktayım. Burada genel İngilizce (General English), çocuk grupları ve YDT hazırlık dersleri vermekteyim.\n\nDil öğrenmenin yalnızca dilbilgisi veya kelime bilgisiyle sınırlı olmadığını, aynı zamanda özgüven, merak ve iletişim becerilerinin de gelişimini kapsadığını düşünüyorum. Bir öğretmen olarak hedefim, öğrencilerimi İngilizceyi yeni fırsatlara, kültürlere ve bakış açılarına açılan bir kapı olarak görmeleri konusunda ilhamlandırmaktır. Her öğrencinin değerli, motive ve öğrenmeye istekli hissettiği pozitif ve dinamik bir sınıf ortamı yaratmaya özen gösteriyorum.",
+    "image": "/images/teachers/gul-yildiz-kacan.png"
   },
   {
     "id": "2",
-    "name": "Mehmet Demir",
-    "title": "PTE & OET Eğitmeni",
-    "experience": "10 Yıl Deneyim",
-    "education": "Oxford University - Applied Linguistics",
-    "specialties": ["PTE Academic", "OET", "Business English"],
-    "image": "/professional-teacher-man.jpg"
+    "name": "Miraç Dindar",
+    "title": "İngilizce Öğretmeni",
+    "bio": "İngiliz Dili ve Edebiyatı bölümünden mezun oldum. 2017 yılından bu yana aktif olarak İngilizce öğretmenliği yapmaktayım.\n\nÖğretmenlik sürecimde ileri düzey (B1, B2, C1, C2) kur dersleri yürütmekte ve birebir özel derslerle öğrencilerimin dil becerilerini geliştirmelerine destek olmaktayım. Derslerimde, öğrencilerimin İngilizceyi hem akademik hem de profesyonel yaşamlarında etkili bir biçimde kullanmalarını hedefliyorum.",
+    "image": "/images/teachers/mirac-dindar.png"
   },
   {
     "id": "3",
-    "name": "Zeynep Kaya",
-    "title": "SAT & Akademik İngilizce",
-    "experience": "8 Yıl Deneyim",
-    "education": "Harvard University - Education",
-    "specialties": ["SAT", "Academic Writing", "Grammar"],
-    "image": "/professional-teacher-woman-smiling.jpg"
-  },
-  {
-    "id": "4",
-    "name": "Can Öztürk",
-    "title": "Goethe & Almanca Eğitmeni",
-    "experience": "15 Yıl Deneyim",
-    "education": "Goethe Institut - Zertifikat",
-    "specialties": ["Goethe Zertifikat", "Almanca", "TestDaF"],
-    "image": "/professional-teacher-man-glasses.jpg"
+    "name": "Eda Eser",
+    "title": "İngilizce Öğretmeni",
+    "bio": "2021 yılında European University of Lefke İngilizce Öğretmenliği bölümünden mezun oldum. Mezuniyetimin ardından farklı yaş ve seviyelerdeki öğrencilere İngilizce öğretme fırsatı buldum.\n\nÖğretmenlik sürecimde özellikle çocuk grupları (Young Learners) ve genel ingilizce (General English) alanlarında dersler verdim. Bunun yanı sıra sağlık profesyonellerine yönelik OET (Occupational English Test) hazırlık programlarında da görev aldım.\n\nAyrıca TESOL (Teaching English to Speakers of Other Languages – Anadili İngilizce olmayan kişilere İngilizce öğretimi) sertifikasına sahip olup, derslerimde iletişim temelli ve öğrenci merkezli bir yaklaşımı benimsemekteyim.",
+    "image": "/images/teachers/eda-eser.png"
   }
 ]
