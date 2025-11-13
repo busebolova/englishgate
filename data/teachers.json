@@ -19,5 +19,19 @@
     "title": "İngilizce Öğretmeni",
     "bio": "2021 yılında European University of Lefke İngilizce Öğretmenliği bölümünden mezun oldum. Mezuniyetimin ardından farklı yaş ve seviyelerdeki öğrencilere İngilizce öğretme fırsatı buldum.\n\nÖğretmenlik sürecimde özellikle çocuk grupları (Young Learners) ve genel ingilizce (General English) alanlarında dersler verdim. Bunun yanı sıra sağlık profesyonellerine yönelik OET (Occupational English Test) hazırlık programlarında da görev aldım.\n\nAyrıca TESOL (Teaching English to Speakers of Other Languages – Anadili İngilizce olmayan kişilere İngilizce öğretimi) sertifikasına sahip olup, derslerimde iletişim temelli ve öğrenci merkezli bir yaklaşımı benimsemekteyim.",
     "image": "/images/teachers/eda-eser.png"
+  },
+  {
+    "id": "4",
+    "name": "Delâl Tarakçıoğlu",
+    "title": "İngilizce Öğretmeni",
+    "bio": "2022 yılında Dicle Üniversitesi Ziya Gökalp Eğitim Fakültesi İngilizce Öğretmenliği bölümünden mezun oldum. Mezuniyetimin ardından dört yıldır aktif olarak İngilizce öğretmeni olarak görev yapmaktayım.\n\nGörev sürem boyunca farklı yaş ve seviyelerdeki öğrenci gruplarıyla çalışma imkânı buldum. Çocuk gruplarından sınav hazırlık sınıflarına kadar uzanan geniş bir yelpazede öğretim deneyimine sahibim. Derslerimde öğrencilerimin İngilizceyi yalnızca bir ders konusu olarak değil, etkili bir iletişim aracı olarak görmelerini hedefliyorum.",
+    "image": "/images/teachers/delal-tarakcioglu.png"
+  },
+  {
+    "id": "5",
+    "name": "Dilan Ada",
+    "title": "Almanca Öğretmeni",
+    "bio": "2025 yılında Dicle Üniversitesi Almanca Öğretmenliği bölümünden mezun oldum. Mezuniyetimin ardından English Gate bünyesinde Almanca öğretmeni olarak görev yapmaya başladım.\n\nŞu anda aktif olarak Goethe sınavlarına yönelik hazırlık dersleri yürütmekteyim. Derslerimde öğrencilerimin yalnızca sınav başarısı elde etmelerini değil, aynı zamanda dili günlük yaşamda etkin bir biçimde kullanmalarını da hedefliyorum.",
+    "image": "/images/teachers/dilan-ada.png"
   }
 ]
